@@ -1,3 +1,3 @@
 # number-recognition
 A small project of character recognition
-@pickry
+[pickry](https://github.com/pickry/Tkinter/blob/main/paint.py)
