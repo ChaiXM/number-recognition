@@ -126,7 +126,7 @@ class main:
 
         if self.count_tick > 6 :
             if self.old_v5_x and self.old_v5_y:    
-                distance = np.hypot(e.x-self.old_v5_x, e.y -self.old_v5_y)  
+                #distance = np.hypot(e.x-self.old_v5_x, e.y -self.old_v5_y)  
 
                 deltaY=e.y-self.old_v5_y
                 deltaX=e.x-self.old_v5_x          
